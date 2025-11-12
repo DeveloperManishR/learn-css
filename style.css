@@ -1,4 +1,24 @@
-#myId p{
-    color: green;
-    
+h1{
+    color: pink;
+}
+#greet {
+    color: red;
+}
+.myclass{
+    color: brown;
+}
+
+div p{
+    background-color: black;
+}
+
+.para {
+    background-color: blue;
+}
+/* #idpara{
+    background-color: yellow;
+} */
+
+p{
+    background-color: green;
 }
