@@ -1,10 +1,16 @@
-h1{
-    text-align: right;
-
+* {
+  font-family: Arial, sans-serif;
+}
+h3,
+h1 {
+  color: blanchedalmond;
 }
 
-p{
-    /* line-height: 2; */
-    /* letter-spacing: 2px; */
-    
+
+#login{
+    background-color: white;
+}
+
+.upvote{
+    background-color: green;
 }
