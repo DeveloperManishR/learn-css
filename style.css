@@ -1,11 +1,4 @@
-h1{
-    font-family: 'Courier New', Courier, monospace;
-    color: #ffa511;
-    text-align: center;
-    font-size: 55px;
-    font-weight: 900;
-     letter-spacing: 2px;
-   text-decoration: double underline;
-   text-decoration-color:lightblue ;
-  line-height: 1.5;
+#myId p{
+    color: green;
+    
 }
